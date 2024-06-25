@@ -8,9 +8,9 @@ import cv2
 from sklearn.cluster import KMeans
 
 # Load models
-nationality_age_model = load_model('E:\\Emotion Detection\\nationality_age_model.h5', compile=False)
-emotion_model = load_model('E:\\Emotion Detection\\model.h5')
-age_gender_model = load_model('E:\\Emotion Detection\\best_model.keras')
+nationality_age_model = load_model('nationality_age_model.h5', compile=False)
+emotion_model = load_model('model.h5')
+age_gender_model = load_model('best_model.keras')
 
 nationalities = ['Indian', 'United States', 'African', 'Other']
 emotions = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']

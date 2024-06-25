@@ -38,8 +38,9 @@ This project aims to predict the nationality, age, emotion, and dress color of a
    ```
 
 3. Download the pre-trained models from the provided links and place them in the appropriate directories:
-   - [Emotion Detection Model](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/21664895/5f794f27-2022-4f48-b535-619599af1aee/emotion-detection_model3.ipynb)
-   - [Nationality and Age Prediction Model](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/21664895/5060e7af-e280-46a6-9d6a-b89c0aaf8cd2/Untitled3.ipynb)
+   - [Emotion Detection](https://drive.google.com/drive/folders/10khqBH1FDnEn8MYGHWxgy8XegZvnR8rz?usp=sharing)
+   - [Model](https://drive.google.com/drive/folders/10khqBH1FDnEn8MYGHWxgy8XegZvnR8rz?usp=sharing)
+   - [Nationality and Age Prediction Model](https://drive.google.com/drive/folders/10khqBH1FDnEn8MYGHWxgy8XegZvnR8rz?usp=sharing)
 
 ## Usage
 
@@ -56,8 +57,8 @@ This project aims to predict the nationality, age, emotion, and dress color of a
 
 The project utilizes the following models:
 
-1. **Nationality and Age Prediction Model**: Trained on the CelebA dataset using the notebook provided in the [Nationality and Age Prediction Model](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/21664895/5060e7af-e280-46a6-9d6a-b89c0aaf8cd2/Untitled3.ipynb) link.
-2. **Emotion Detection Model**: Trained on the CelebA dataset using the notebook provided in the [Emotion Detection Model](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/21664895/5f794f27-2022-4f48-b535-619599af1aee/emotion-detection_model3.ipynb) link.
+1. **Nationality and Age Prediction Model**: Trained on the CelebA dataset using the notebook provided in the [Nationality and Age Prediction Model]
+2. **Emotion Detection Model**: Trained on the CelebA dataset using the notebook provided in the [Emotion Detection Model]https://drive.google.com/drive/folders/10khqBH1FDnEn8MYGHWxgy8XegZvnR8rz?usp=sharing
 3. **Age and Gender Detection Model**: Not provided in the search results, but you can train this model using the CelebA dataset as well.
 
 ## Contributing

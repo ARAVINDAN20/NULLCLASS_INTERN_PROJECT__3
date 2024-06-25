@@ -58,7 +58,7 @@ This project aims to predict the nationality, age, emotion, and dress color of a
 The project utilizes the following models:
 
 1. **Nationality and Age Prediction Model**: Trained on the CelebA dataset using the notebook provided in the [Nationality and Age Prediction Model]https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
-2. **Emotion Detection Model**: Trained on the utkface dataset using the notebook provided in the [Emotion Detection Model]https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+2. **Emotion Detection Model**: Trained on the Emotion Detection dataset using the notebook provided in the [Emotion Detection Model]https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
 3. **Age and Gender Detection Model**: Trained on the utkface dataset using the notebook provided in the [Age and Gender Detection Model]https://www.kaggle.com/datasets/jangedoo/utkface-new
    
 ## License
@@ -74,6 +74,3 @@ This project is licensed under the [MIT License](LICENSE).
 - The Tkinter library for creating the GUI
 
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/21664895/5f794f27-2022-4f48-b535-619599af1aee/emotion-detection_model3.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/21664895/5060e7af-e280-46a6-9d6a-b89c0aaf8cd2/Untitled3.ipynb

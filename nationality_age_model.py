@@ -7,9 +7,9 @@ from tensorflow.keras.layers import Input, Conv2D, MaxPooling2D, Flatten, Dense,
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 from sklearn.model_selection import train_test_split
 
-# Paths to data
-celeba_dir = r"E:\Emotion Detection\archive\img_align_celeba\img_align_celeba"
-attributes_file = r"E:\Emotion Detection\archive\list_attr_celeba.csv"
+# Paths to data( You can define where your dataset is present )
+celeba_dir = r"img_align_celeba\img_align_celeba"
+attributes_file = r"list_attr_celeba.csv"
 
 # Load attributes
 attributes = pd.read_csv(attributes_file)

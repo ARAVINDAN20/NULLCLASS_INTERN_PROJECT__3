@@ -57,14 +57,10 @@ This project aims to predict the nationality, age, emotion, and dress color of a
 
 The project utilizes the following models:
 
-1. **Nationality and Age Prediction Model**: Trained on the CelebA dataset using the notebook provided in the [Nationality and Age Prediction Model]
-2. **Emotion Detection Model**: Trained on the CelebA dataset using the notebook provided in the [Emotion Detection Model]https://drive.google.com/drive/folders/10khqBH1FDnEn8MYGHWxgy8XegZvnR8rz?usp=sharing
-3. **Age and Gender Detection Model**: Not provided in the search results, but you can train this model using the CelebA dataset as well.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
+1. **Nationality and Age Prediction Model**: Trained on the CelebA dataset using the notebook provided in the [Nationality and Age Prediction Model]https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+2. **Emotion Detection Model**: Trained on the utkface dataset using the notebook provided in the [Emotion Detection Model]https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+3. **Age and Gender Detection Model**: Trained on the utkface dataset using the notebook provided in the [Age and Gender Detection Model]https://www.kaggle.com/datasets/jangedoo/utkface-new
+   
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

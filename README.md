@@ -1,4 +1,6 @@
 # NULLCLASS_INTERN_PROJECT__3
+<img src="https://github.com/user-attachments/assets/439d69d0-61a4-4818-a7c2-2c871b2b7d28" alt="" width="300" height="360">
+
 # Nationality, Age, Emotion, and Dress Color Prediction
 
 This project aims to predict the nationality, age, emotion, and dress color of a person from an uploaded image using deep learning models. The models are trained on the CelebA dataset and can handle different scenarios based on the predicted nationality and age.
